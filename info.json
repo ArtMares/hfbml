@@ -1,0 +1,12 @@
+{
+  "name": "hfbml",
+  "version": "0.18.0",
+  "title": "Hell Factorio Basic Mod Library",
+  "factorio_version": "0.18",
+  "author": "ArtMares",
+  "homepage": "https://github.com/ArtMares/hfbml",
+  "description": "Helper Library",
+  "dependencies": [
+    "base >= 0.18.0"
+  ]
+}
