@@ -2,7 +2,7 @@ HFBML = {
     internal_name = "hfbml",
     title = "Hell Factorio Basic Mod Library"
 }
-HFBML.version = "0.18.0"
+HFBML.version = "2.0.0"
 
 function HFBML.load(path)
     log("Load file \""..path.."\"")
